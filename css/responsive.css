@@ -1,0 +1,376 @@
+.register_body {
+    height: auto;
+    padding-top: 165px;
+    padding-bottom: 165px;
+    display: flex;
+    align-items: center;
+    background: url(../img/hero_bg.png) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+.border_r{
+	border-right: 2px solid #ebe9e9;
+	padding: 0px 80px;
+}
+.container_register{
+	max-width: 1280px;
+	padding: 0;
+	background: white;
+}
+.register_1st_section{
+	width: auto;
+	float: left;
+	background: white;
+	/* border-right: 2px solid #C3C3C3; */
+	height: 100%;
+	padding: 60px 0;
+	height: auto;
+}
+.register_2nd_section{
+	width: 500px;
+	float: left;
+	background: #ffffff;
+	padding: 170px 40px;
+	height: auto;
+}
+.register_1st_section h2{
+	
+font-size: 36px;
+	
+color: #0A79E2;
+	
+font-weight: 600;
+}
+.register_1st_section p{
+	
+font-size: 18px;
+	
+color: #333333;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+	
+font-weight: normal;
+}
+.register_1st_section span{
+	
+font-size: 18px;
+}
+.register_1st_section span a{
+	
+color: #0A79E2;
+}
+.register_1st_section span a:hover{
+	
+}
+.register_1st_section_form{
+}
+.register_1st_section_form input{
+	
+border: none;
+	
+border-bottom: 2px solid #ebe9e9;
+	
+padding: 10px;
+	
+font-size: 18px;
+	
+margin-top: 35px;
+	
+display: inline-block;
+	
+width: 100%;
+	
+margin-bottom: 15px;
+	
+color: #333333;
+	
+cursor: text;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+	
+font-weight: normal;
+}
+.register_1st_section_form button{
+	
+background: #0a79e2;
+	
+color: white;
+	
+padding: 15px;
+	
+margin-top: 15px;
+	
+margin-bottom: 15px;
+	
+width: 100%;
+	
+border: none;
+}
+.register_1st_section_form button:hover{
+	
+background: #1060ab;
+}
+.register_1st_section_form span{
+	
+}
+.register_1st_section_form span a{
+	
+}
+
+
+
+.register_2nd_section_main{
+	
+}
+.register_2nd_section_main h2{
+	
+font-size: 30px;
+	
+color: #333333;
+	
+font-weight: 700;
+}
+.register_2nd_section_main p{
+	
+font-size: 21px;
+	
+color: #333333;
+}
+.register_2nd_section_lists{
+	
+}
+.register_2nd_section_lists span{
+	
+width: 100%;
+	
+display: flow-root;
+	
+margin-bottom: 20px;
+	
+color: #333333;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+	
+font-weight: normal;
+}
+.register_2nd_section_lists img{
+	
+}
+
+
+
+@media only screen and (min-width: 320px) and (max-width: 1280px) {
+	
+	.register_body {
+    height: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    display: flex;
+    align-items: center;
+    background: url(../img/hero_bg.png) no-repeat center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+    overflow: hidden;
+}
+.border_r{
+	border-right: 0;
+	padding: 0;
+}
+.container_register{
+	max-width: 80%;
+	padding: 0;
+	background: none;
+}
+.register_1st_section{
+	width: 100%;
+	float: left;
+	background: white;
+	border-right: 0;
+	padding: 10% 7%;
+	height: auto;
+}
+.register_2nd_section{
+	width: 100%;
+	float: left;
+	background: #ffffff;
+	padding: 10% 7%;
+	height: auto;
+	margin-top: 50px;
+}
+.register_1st_section h2{
+	
+font-size: 36px;
+	
+color: #0A79E2;
+	
+font-weight: 600;
+}
+.register_1st_section p{
+	
+font-size: 18px;
+	
+color: #333333;
+}
+.register_1st_section span{
+	
+font-size: 18px;
+}
+.register_1st_section span a{
+	
+color: #0A79E2;
+}
+.register_1st_section span a:hover{
+	
+}
+.register_1st_section_form{
+	
+}
+.register_1st_section_form input{
+	
+border: none;
+	
+border-bottom: 2px solid #ebe9e9;
+	
+padding: 10px;
+	
+font-size: 18px;
+	
+margin-top: 35px;
+	
+display: inline-block;
+	
+width: 100%;
+	
+margin-bottom: 15px;
+}
+.register_1st_section_form button{
+	
+background: #0a79e2;
+	
+color: white;
+	
+padding: 15px;
+	
+margin-top: 15px;
+	
+margin-bottom: 15px;
+	
+width: 100%;
+	
+border: none;
+}
+.register_1st_section_form button:hover{
+	
+background: #1060ab;
+}
+.register_1st_section_form span{
+	
+}
+.register_1st_section_form span a{
+	
+}
+
+
+
+.register_2nd_section_main{
+	
+}
+.register_2nd_section_main h2{
+	
+font-size: 30px;
+	
+color: #333333;
+	
+font-weight: 700;
+}
+.register_2nd_section_main p{
+	
+font-size: 21px;
+	
+color: #333333;
+}
+.register_2nd_section_lists{
+	
+}
+.register_2nd_section_lists span{
+	
+width: 100%;
+	
+display: flow-root;
+	
+margin-bottom: 20px;
+	
+color: #333333;
+}
+.register_2nd_section_lists img{
+	
+}
+
+	
+}
+
+
+
+
+@media only screen and (min-width: 450px) and (max-width: 768px) {
+
+.navbar-brand{
+    
+}
+
+.navbar-brand img{
+    
+}
+
+}
+@media only screen and (min-width: 320px) and (max-width: 449px) {
+
+.navbar-brand{
+    
+width: 50%;
+}
+
+.navbar-brand img{
+    
+width: 100%;
+}
+
+}
+@media only screen and (max-width: 319px) {
+
+.navbar-brand{
+    width: 50%;
+}
+
+.navbar-brand img{
+    width: 100%;
+}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

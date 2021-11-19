@@ -1,0 +1,953 @@
+
+
+.container_custom {
+    max-width: 1662px;
+}
+
+.btn {
+    background: #E61037 none repeat scroll 0 0;
+}
+
+
+
+.YouGift_pp_section{
+	
+background-image: url(../img/yougift_bg.png);
+	
+background-size: 100% 770px;
+	
+background-repeat: no-repeat;
+	
+padding-top: 60px;
+	
+padding-bottom: 70px;
+	
+display: table;
+	
+width: 100%;
+}
+.yougift_plan_pricing {
+    /* background-image: url(../img/yougift_bg.png); */
+    /* background-size: 100% 770px; */
+    /* background-repeat: no-repeat; */
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+.YouGift_pp_section_top{
+	
+}
+.YouGift_pp_section_top h2{
+	
+font-size: 48px;
+	
+color: #FFFFFF;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+}
+.YouGift_pp_section_top p{
+	
+color: #FFFFFF;
+	
+font-size: 24px;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+}
+
+
+.YouGift_pp_slid_section{
+	
+width: 100%;
+	
+float: left;
+	
+margin-top: 60px;
+}
+.YouGift_pp_slid1{
+	
+width: 527px;
+	
+float: left;
+	
+height: 703px;
+	
+margin-top: 45px;
+	
+background: white;
+	
+box-shadow: 0px 5px 0px #e3e3e3;
+	
+border: 1px solid #d7d5d5;
+}
+.YouGift_pp_slid2{
+	
+width: 608px;
+	
+float: left;
+	
+height: 789px;
+	
+background: white;
+	
+box-shadow: 0px 5px 0px #e3e3e3;
+	
+border: 1px solid #d7d5d5;
+}
+.YouGift_pp_slid3{
+	
+width: 527px;
+	
+float: left;
+	
+height: 703px;
+	
+background: gray;
+	
+margin-top: 45px;
+	
+background: white;
+	
+box-shadow: 0px 5px 0px #e3e3e3;
+	
+border: 1px solid #d7d5d5;
+}
+
+.YouGift_pp_slid1_title{
+	
+}
+.YouGift_pp_slid1_title h2{
+	
+background: #EAEAEA;
+	
+height: 72px;
+	
+padding-top: 15px;
+	
+color: #0A79E2;
+	
+font-size: 26px;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+}
+.YouGift_pp_slid_amount{
+	
+height: 60px;
+	
+border-bottom: solid 2px #C7C7C7;
+	
+margin-left: 100px;
+	
+margin-right: 100px;
+	
+margin-bottom: 15px;
+}
+.YouGift_pp_slid_amount span{
+	
+font-size: 36px;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+}
+.YouGift_pp_slid_amount sm{
+	
+font-size: 18px;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+}
+.YouGift_pp_slid2_title{
+	
+}
+.YouGift_pp_slid2_title h2{
+	
+background: #EAEAEA;
+	
+height: 72px;
+	
+padding-top: 15px;
+	
+color: #0A79E2;
+	
+font-size: 26px;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+}
+.YouGift_pp_slid3_title{
+	
+}
+.YouGift_pp_slid3_title h2{
+	
+background: #EAEAEA;
+	
+height: 72px;
+	
+padding-top: 15px;
+	
+color: #E60C0A;
+	
+font-size: 26px;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+}
+.YouGift_pp_slid_amount_call_fp{
+	
+height: 60px;
+	
+border-bottom: solid 2px #C7C7C7;
+	
+margin-left: 100px;
+	
+margin-right: 100px;
+	
+margin-bottom: 15px;
+}
+.YouGift_pp_slid_amount_call_fp span{
+	
+font-size: 30px;
+}
+
+.YouGift_pp_slid_lists1{
+	
+padding: 20px 5px 20px 120px;
+	
+height: 470px;
+}
+.YouGift_pp_slid_lists2{
+	
+padding: 20px 5px 20px 120px;
+	
+height: 550px;
+}
+.YouGift_pp_slid_lists3{
+	
+padding: 20px 5px 20px 120px;
+	
+height: 470px;
+}
+.YouGift_pp_slid_lists span{
+	
+display: inherit;
+	
+padding-bottom: 15px;
+	
+text-align: left;
+	
+font-size: 22px;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+}
+.YouGift_pp_slid_lists span img{
+	
+}
+
+
+.btn_YouGift_pp1{
+	
+font-size: 17px;
+	
+background: #0184FF;
+	
+border-radius: 50px;
+	
+color: white;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+	
+margin-bottom: 20px;
+}
+.btn_YouGift_pp2{
+	
+font-size: 24px;
+	
+background: #0184FF;
+	
+border-radius: 50px;
+	
+color: white;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+	
+margin-bottom: 20px;
+}
+.btn_YouGift_pp3{
+	
+font-size: 17px;
+	
+background: #E61037;
+	
+border-radius: 50px;
+	
+color: white;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+	
+margin-bottom: 20px;
+}
+
+.btn_YouGift_pp1:hover{
+	
+background: #0155FF;
+}
+
+.btn_YouGift_pp2:hover{
+	
+background: #0155FF;
+}
+
+.btn_YouGift_pp3:hover{
+	
+background: #0155FF;
+}
+
+
+
+
+@media only screen and (min-width: 1400px) and (max-width: 1700px) {
+	.YouGift_pp_section .container_custom {
+    max-width: 1450px;
+}
+	
+.YouGift_pp_slid1{
+	
+width: 450px;
+	
+height: 700px;
+}
+
+.YouGift_pp_slid2{
+	
+width: 550px;
+	
+height: 795px;
+}
+
+.YouGift_pp_slid3{
+	
+width: 450px;
+	
+height: 700px;
+}
+
+.YouGift_pp_slid_lists1{
+	
+padding: 20px 5px 20px 35px;
+	
+height: 465px;
+}
+.YouGift_pp_slid_lists2{
+	
+padding: 20px 5px 20px 35px;
+	
+height: 530px;
+}
+.YouGift_pp_slid_lists3{
+	
+padding: 20px 5px 20px 35px;
+	
+height: 465px;
+}
+	
+	
+}
+
+
+
+@media only screen and (min-width: 1300px) and (max-width: 1500px) {
+	.YouGift_pp_section .container_custom {
+    max-width: 1360px;
+}
+	
+.YouGift_pp_slid1{
+	
+width: 375px;
+	
+height: 710px;
+}
+
+.YouGift_pp_slid2{
+	
+width: 445px;
+	
+height: 795px;
+}
+
+.YouGift_pp_slid3{
+	
+width: 390px;
+	
+height: 710px;
+}
+
+.YouGift_pp_slid_lists1{
+	
+padding: 20px 5px 20px 35px;
+	
+height: 485px;
+}
+.YouGift_pp_slid_lists2{
+	
+padding: 20px 5px 20px 35px;
+	
+height: 530px;
+}
+.YouGift_pp_slid_lists3{
+	
+padding: 20px 5px 20px 35px;
+	
+height: 485px;
+}
+	.YouGift_pp_slid_amount {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}.YouGift_pp_slid_amount_call_fp {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}
+	
+}
+
+
+
+
+@media only screen and (min-width: 1100px) and (max-width: 1400px) {
+	.YouGift_pp_section .container_custom {
+    max-width: 1150px;
+}
+	
+.YouGift_pp_slid1{
+	
+width: 325px;
+	
+height: 880px;
+}
+
+.YouGift_pp_slid2{
+	
+width: 364px;
+	
+height: 970px;
+}
+
+.YouGift_pp_slid3{
+	
+width: 325px;
+	
+height: 880px;
+}
+
+.YouGift_pp_slid_lists1{
+	
+padding: 20px 5px 20px 35px;
+	
+height: 655px;
+}
+.YouGift_pp_slid_lists2{
+	
+padding: 20px 5px 20px 35px;
+	
+height: 750px;
+}
+.YouGift_pp_slid_lists3{
+	
+padding: 20px 5px 20px 35px;
+	
+height: 655px;
+}
+	.YouGift_pp_slid_amount {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}.YouGift_pp_slid_amount_call_fp {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 15px;
+}
+	.btn_YouGift_pp2 {
+    font-size: 18px;
+}
+}
+@media only screen and (min-width: 768px) and (max-width: 1150px) {
+	.YouGift_pp_section .container_custom {
+    max-width: 800px;
+}
+	
+.YouGift_pp_slid1{
+	
+width: 100%;
+	
+height: auto;
+	
+margin-bottom: 50px;
+	
+padding-bottom: 25px;
+}
+
+.YouGift_pp_slid2{
+	
+width: 100%;
+	
+height: auto;
+	
+padding-bottom: 25px;
+}
+
+.YouGift_pp_slid3{
+	
+width: 100%;
+	
+height: auto;
+	
+margin-bottom: 50px;
+	
+padding-bottom: 25px;
+}
+
+.YouGift_pp_slid_lists1{
+	
+padding: 20px 75px;
+	
+height: 265px;
+}
+.YouGift_pp_slid_lists2{
+	
+padding: 20px 75px;
+	
+height: 420px;
+}
+.YouGift_pp_slid_lists3{
+	
+padding: 20px 75px;
+	
+height: 470px;
+}
+	.YouGift_pp_slid_amount {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}.YouGift_pp_slid_amount_call_fp {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 15px;
+}
+	.btn_YouGift_pp2 {
+    font-size: 17px;
+}
+}
+
+
+@media only screen and (min-width: 540px) and (max-width: 768px) {
+	.YouGift_pp_section .container_custom {
+    max-width: 600px;
+}
+	
+.YouGift_pp_slid1{
+	width: 100%;
+	height: auto;
+	margin-bottom: 50px;
+	padding-bottom: 20px;
+}
+
+.YouGift_pp_slid2{
+	
+width: 100%;
+	
+height: auto;
+	
+padding-bottom: 20px;
+}
+
+.YouGift_pp_slid3{
+	
+width: 100%;
+	
+height: auto;
+	
+margin-bottom: 50px;
+	
+padding-bottom: 20px;
+}
+
+.YouGift_pp_slid_lists1{
+	padding: 20px;
+	height: auto;
+}
+.YouGift_pp_slid_lists2{
+	padding: 20px;
+	height: 420px;
+}
+.YouGift_pp_slid_lists3{
+	
+padding: 20px 75px;
+	
+height: 500px;
+}
+	.YouGift_pp_slid_amount {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}.YouGift_pp_slid_amount_call_fp {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 15px;
+}
+	.btn_YouGift_pp2 {
+    font-size: 17px;
+}
+
+.YouGift_pp_section_top h2 {
+font-size: 26px;
+color: white;
+font-family: 'Gotham Book';
+font-style: normal;
+}
+.YouGift_pp_section_top p {
+color: white;
+font-size: 14px;
+font-family: 'Gotham Book';
+font-style: normal;
+}
+.btn_YouGift_pp2 {
+font-size: 12px;
+}
+
+.btn_YouGift_pp3 {
+font-size: 12px;
+}
+.btn_YouGift_pp1 {
+font-size: 12px;
+}
+.YouGift_pp_slid_lists span {font-size: 18px;}
+
+.YouGift_pp_slid_amount_call_fp span {
+font-size: 18px;
+}
+.YouGift_pp_slid2_title h2 {
+background: #EAEAEA;
+height: auto;
+padding: 15px;
+color: #0A79E2;
+font-size: 21px;
+font-family: 'Gotham Book';
+font-style: normal;
+}
+.YouGift_pp_slid3_title h2 {
+background: #EAEAEA;
+height: auto;
+padding: 15px;
+color: #E60C0A;
+font-size: 21px;
+font-family: 'Gotham Book';
+font-style: normal;
+}
+.YouGift_pp_slid1_title h2 {
+background: #EAEAEA;
+height: auto;
+padding: 15px;
+color: #0A79E2;
+font-size: 21px;
+font-family: 'Gotham Book';
+font-style: normal;
+}
+
+
+.YouGift_pp_slid_amount span {
+font-size: 21px;
+font-family: 'Gotham Book';
+font-style: normal;
+}
+.YouGift_pp_slid_amount sm {
+font-size: 12px;
+font-family: 'Gotham Book';
+font-style: normal;
+}
+}
+
+
+
+
+
+@media only screen and (min-width: 250px) and (max-width: 539px) {
+	.YouGift_pp_section .container_custom {
+    max-width: 98%;
+}
+	
+.YouGift_pp_slid1{
+	
+width: 100%;
+	
+height: auto;
+	
+margin-bottom: 50px;
+	
+padding-bottom: 15px;
+}
+
+.YouGift_pp_slid2{
+	
+width: 100%;
+	
+height: auto;
+	
+padding-bottom: 15px;
+}
+
+.YouGift_pp_slid3{
+	
+width: 100%;
+	
+height: auto;
+	
+margin-bottom: 50px;
+	
+padding-bottom: 15px;
+}
+
+.YouGift_pp_slid_lists1{
+	padding: 10px;
+	height: auto;
+}
+.YouGift_pp_slid_lists2{
+	padding: 10px;
+	height: auto;
+}
+.YouGift_pp_slid_lists3{
+	padding: 10px;
+	height: auto;
+}
+	.YouGift_pp_slid_amount {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 15px;
+}.YouGift_pp_slid_amount_call_fp {
+    height: 60px;
+    border-bottom: solid 2px #C7C7C7;
+    margin-left: 35px;
+    margin-right: 35px;
+    margin-bottom: 15px;
+}
+	.btn_YouGift_pp2 {
+    font-size: 14px;
+}
+
+}
+
+
+
+
+
+
+.frequently_section{
+	
+padding-top: 50px;
+	
+padding-bottom: 50px;
+}
+.frequently_section .header h2{
+	
+}
+.single_frequently{
+	
+}
+.single_frequently h4{
+	
+font-size: 22px;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+	
+font-weight: 600;
+}
+.single_frequently p{
+	
+font-size: 18px;
+	
+font-family: 'Gotham Book';
+	
+font-style: normal;
+}
+
+
+
+.footer_top {
+    width: 100%;
+    margin: 0;
+    height: auto;
+    background: url(../img/f_top_bg2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+.footer2{
+	
+display: inline-table;
+	
+width: 100%;
+}
+.single_footer{
+	
+}
+.single_footer span{
+	
+color: #C3C3C3;
+	
+padding-bottom: 5px;
+	
+display: inline-block;
+}
+.single_footer span a{
+	
+color: #C3C3C3;
+}
+.single_footer span a:hover{
+
+color: #fff9f9;
+}
+.color_white{
+	color: white!important;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 768px) {
+	
+.footer_top {
+    width: 100%;
+    margin: 0;
+    height: auto;
+    background: url(../img/f_top_bg2.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    text-align: center;
+}
+
+}
+
+_::-moz-svg-foreign-content, :root .col6_12_price {
+max-width: 50%;
+float: left;
+}
+
+@media only screen and (min-width: 300px) and (max-width: 768px) {
+
+_::-moz-svg-foreign-content, :root .col6_12_price {
+max-width: 100%;
+float: left;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+_::-moz-svg-foreign-content, :root .row_price {
+display: table;
+}
+
+
+
+
+
+
+
+
+@media only screen and  (max-width: 768px) {
+
+.yougift_plan_pricing {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+	
+.YouGift_pp_section_top h2 {
+    font-size: 30px;
+}
+.YouGift_pp_section_top p {
+    color: #FFFFFF;
+    font-size: 14px;
+    font-family: 'Gotham Book';
+    font-style: normal;
+}
+.YouGift_pp_section {
+    background-image: url(../img/yougift_bg.png);
+    background-size: 100% 500px;
+    background-repeat: no-repeat;
+    padding-top: 60px;
+    padding-bottom: 0;
+    display: table;
+    width: 100%;
+}
+
+.YouGift_pp_slid_section {
+    width: 100%;
+    float: left;
+    margin-top: 0px;
+}
+
+.YouGift_pp_slid_lists span {
+    display: inherit;
+    padding-bottom: 15px;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Gotham Book';
+    font-style: normal;
+}
+
+.frequently_section {
+    padding-top: 20px;
+    padding-bottom: 29px;
+}
+
+
+}

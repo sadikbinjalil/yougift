@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="96" height="96" viewBox="0 0 96 96">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#0184ff"/>
+      <stop offset="1" stop-color="#0a79e2"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_2075" data-name="Group 2075" transform="translate(-289 -3418)">
+    <rect id="Rectangle_985" data-name="Rectangle 985" width="96" height="96" transform="translate(289 3418)" fill="url(#linear-gradient)"/>
+    <text id="_03" data-name="03" transform="translate(337 3498)" fill="#fff" font-size="49" font-family="SegoeUI, Segoe UI"><tspan x="-26.414" y="0">03</tspan></text>
+    <text id="STEP" transform="translate(337 3447)" fill="#fff" font-size="20" font-family="SegoeUI, Segoe UI"><tspan x="-21.211" y="0">STEP</tspan></text>
+  </g>
+</svg>
